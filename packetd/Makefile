@@ -4,7 +4,8 @@ PKG_NAME:=packetd
 PKG_LICENSE:=GPL-2.0
 PKG_MAINTAINER:=Sebastien Delafond <sdelafond@gmail.com>
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/untangle/packetd.git
+PKG_SOURCE_URL:=https://github.com/sdelafond/packetd.git
+PKG_SOURCE_VERSION:=some-branch
 
 include ../version.mk
 
